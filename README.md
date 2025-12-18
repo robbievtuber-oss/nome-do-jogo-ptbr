@@ -1,4 +1,4 @@
-# nome-do-jogo-ptbr
+# nome-do-jogo-ptbr Liline eo Alquimista
 Tradução PT-BR de jogo RPG Maker / Visual Novel. Projeto sem fins lucrativos.
 # Tradução PT-BR – [Liline eo Alquimista]
 
