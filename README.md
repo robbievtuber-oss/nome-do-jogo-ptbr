@@ -20,4 +20,4 @@ Tradução e revisão: RobbieSenseiPT-BR
 ## Aviso
 Este projeto não possui fins lucrativos.
 Todos os direitos pertencem aos criadores originais.
-<img width="1600" height="900" alt="Desktop Screenshot 2025 12 13 - 15 12 09 76" src="https://github.com/user-attachments/assets/f1778db6-231b-45c7-9293-0a73dc93c925" />
+![Captura de tela_14-12-2025_221614_impervert com](https://github.com/user-attachments/assets/723bf5d9-4bae-49e6-9cb4-24eee6ccafc5)
